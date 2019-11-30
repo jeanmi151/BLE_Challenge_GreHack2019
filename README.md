@@ -70,17 +70,17 @@ Description : "I got in my hands a super high-tech chip and he got cool firmware
 Categorie : "Misc"
 ```
 ## Files present in this git
-[blink-led/cat_flag.c] : Source code (need to compile and send) of a solution for the step 4
+[blink-led/cat_flag.c](blink-led/cat_flag.c) : Source code (need to compile and send) of a solution for the step 4
 
-[blink-led/flag_encoder.py] : Script used to encode the flag (prensent in test-blink.c)
+[blink-led/flag_encoder.py](blink-led/flag_encoder.py) : Script used to encode the flag (prensent in test-blink.c)
 
-[blink-led/test-blink.c] : Source code of the binary sended in the capture (step3)
+[blink-led/test-blink.c](blink-led/test-blink.c) : Source code of the binary sended in the capture (step3)
  
-[firmServerUpdater/] : File needed to run the GATT services
+[firmServerUpdater/](firmServerUpdater/) : File needed to run the GATT services
 
-[firmServerUpdater/firmUpdater] : Containing all customisation of the differents service. If you want to modify the behaviour of the challenge it is this file
+[firmServerUpdater/firmUpdater](firmServerUpdater/firmUpdater) : Containing all customisation of the differents service. If you want to modify the behaviour of the challenge it is this file
 
-[client-updater/request-server.py] : My test script to resolve step4
+[client-updater/request-server.py](client-updater/request-server.py) : My test script to resolve step4
 
 
 ## How to run it again !
